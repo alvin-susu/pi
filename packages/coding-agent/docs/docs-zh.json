@@ -1,0 +1,156 @@
+{
+  "navigation": [
+    {
+      "title": "从这里开始",
+      "items": [
+        {
+          "title": "概览",
+          "path": "index-zh.md"
+        },
+        {
+          "title": "快速开始",
+          "path": "quickstart-zh.md"
+        },
+        {
+          "title": "使用 Pi",
+          "path": "usage-zh.md"
+        },
+        {
+          "title": "服务提供商",
+          "path": "providers-zh.md"
+        },
+        {
+          "title": "安全",
+          "path": "security-zh.md"
+        },
+        {
+          "title": "容器化",
+          "path": "containerization-zh.md"
+        },
+        {
+          "title": "设置",
+          "path": "settings-zh.md"
+        },
+        {
+          "title": "键位绑定",
+          "path": "keybindings-zh.md"
+        },
+        {
+          "title": "会话",
+          "path": "sessions-zh.md"
+        },
+        {
+          "title": "上下文压缩",
+          "path": "compaction-zh.md"
+        }
+      ]
+    },
+    {
+      "title": "自定义",
+      "items": [
+        {
+          "title": "扩展",
+          "path": "extensions-zh.md"
+        },
+        {
+          "title": "技能",
+          "path": "skills-zh.md"
+        },
+        {
+          "title": "提示词模板",
+          "path": "prompt-templates-zh.md"
+        },
+        {
+          "title": "主题",
+          "path": "themes-zh.md"
+        },
+        {
+          "title": "Pi 包",
+          "path": "packages-zh.md"
+        },
+        {
+          "title": "自定义模型",
+          "path": "models-zh.md"
+        },
+        {
+          "title": "自定义服务提供商",
+          "path": "custom-provider-zh.md"
+        }
+      ]
+    },
+    {
+      "title": "参考",
+      "items": [
+        {
+          "title": "会话格式",
+          "path": "session-format-zh.md"
+        }
+      ]
+    },
+    {
+      "title": "以编程方式使用",
+      "items": [
+        {
+          "title": "SDK",
+          "path": "sdk-zh.md"
+        },
+        {
+          "title": "RPC 模式",
+          "path": "rpc-zh.md"
+        },
+        {
+          "title": "JSON 事件流模式",
+          "path": "json-zh.md"
+        },
+        {
+          "title": "TUI 组件",
+          "path": "tui-zh.md"
+        }
+      ]
+    },
+    {
+      "title": "平台配置",
+      "items": [
+        {
+          "title": "Windows",
+          "path": "windows-zh.md"
+        },
+        {
+          "title": "Android 上的 Termux",
+          "path": "termux-zh.md"
+        },
+        {
+          "title": "tmux",
+          "path": "tmux-zh.md"
+        },
+        {
+          "title": "终端配置",
+          "path": "terminal-setup-zh.md"
+        },
+        {
+          "title": "Shell 别名",
+          "path": "shell-aliases-zh.md"
+        }
+      ]
+    },
+    {
+      "title": "开发",
+      "items": [
+        {
+          "title": "开发",
+          "path": "development-zh.md"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "from": "session.md",
+      "to": "session-format.md"
+    },
+    {
+      "from": "tree.md",
+      "to": "sessions.md"
+    }
+  ]
+}
